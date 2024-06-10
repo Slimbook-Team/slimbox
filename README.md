@@ -8,7 +8,7 @@ Initially this first model works with all ProX models. However, we are working t
 
 [Adriana Fuentes](https://www.linkedin.com/in/adriana-fuentes-garc%C3%ADa-92756b68/) is the one who take our idea and made it possible with hours and hours of selfless work. This first model is entirely her own work. Thanks a lot Adriana.
 
-SlimBOX has GNU GPL 3.0 License, keeping the authorship.
+*SlimBOX has GNU GPL 3.0 License, keeping the authorship.*
 
 ---------------------------------------------------
 # SlimBOX - Carcasa impresa en 3D para reutilizar antiguos Slimbook
@@ -21,4 +21,4 @@ Inicialmente este primer modelo funciona con todos los modelos ProX. Sin embargo
 
 [Adriana Fuentes](https://www.linkedin.com/in/adriana-fuentes-garc%C3%ADa-92756b68/) es quien tomó nuestra idea y la hizo posible con horas y horas de trabajo desinteresado. Este primer modelo es enteramente obra suya. Muchas gracias Adriana.
 
-SlimBOX tiene Licencia GNU GPL 3.0 manteniendo la autoría.
+*SlimBOX tiene Licencia GNU GPL 3.0 manteniendo la autoría.*
