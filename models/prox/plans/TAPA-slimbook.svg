@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="243.98399999999998mm"
+   height="154.784mm"
+   viewBox="0 0 243.98399999999998 154.784"
+   version="1.1"
+   id="svg15"
+   sodipodi:docname="CAJA-tapa_slimbook.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata21">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs19" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview17"
+     showgrid="false"
+     inkscape:zoom="0.80682329"
+     inkscape:cx="440.9597"
+     inkscape:cy="333.2039"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Fillet010" />
+  <g
+     id="Fillet010"
+     transform="translate(4.492000,150.392000) scale(1,-1)">
+    <title
+       id="title12">b'tapa'</title>
+    <rect
+       style="opacity:0.58699999;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.26498953;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4531"
+       width="239.73502"
+       height="149.99959"
+       x="-1.9997966"
+       y="-147.9998"
+       transform="scale(1,-1)"
+       ry="6.9999809" />
+  </g>
+</svg>
