@@ -1,4 +1,5 @@
 # SlimBOX - 3D printed case to reuse old slimbook models
+### DIY: DO IT YOURSELF and CONTRIBUTE with YOUR MODIFICATIONS
 
 Don't throw away your old Slimbook! SlimBOX is a project for reuse your old slimbook and put its motherboard inside a custom case printed in 3d. In this way you can use it as a desktop mini-pc or media center, per example.
 
@@ -12,6 +13,7 @@ Initially this first model works with all ProX models. However, we are working t
 
 ---------------------------------------------------
 # SlimBOX - Carcasa impresa en 3D para reutilizar antiguos Slimbook
+### DIY: DO IT YOURSELF (HAZLO TÚ MISMO) y CONTRIBUYE con TUS MODIFICACIONES
 
 ¡No tires tu viejo Slimbook! SlimBOX es un proyecto para reutilizar tu antiguo Slimbook y poner su placa base dentro de una carcasa personalizada impresa en 3d. De esta forma podrás utilizarlo como mini-pc de sobremesa o media center, por ejemplo.
 
