@@ -36,4 +36,4 @@ Nota: Esta temprana y primera veresión, falta diseñar el espacio para el botó
 - [ ] Add power button / Añadir botón de arranque
 - [ ] Adjust ports fit / Ajustar encaje de puertos
 
-More info: [SlimBOX page](https://slmbook.com/slimbox) 
+More info: [SlimBOX page](https://slimbook.com/slimbox) 
