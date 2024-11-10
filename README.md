@@ -28,3 +28,11 @@ Nota: Esta temprana y primera veresión, falta diseñar el espacio para el botó
 [Adriana Fuentes](https://www.linkedin.com/in/adriana-fuentes-garc%C3%ADa-92756b68/) es quien tomó nuestra idea y la hizo posible con horas y horas de trabajo desinteresado. Este primer modelo es enteramente obra suya. Muchas gracias Adriana.
 
 *SlimBOX tiene Licencia GNU GPL 3.0 manteniendo la autoría.*
+
+
+# Current status
+- [X] 3D Design / Diseño 3D
+- [X] Compatibility with ProX (only single-fan heatsink) / Compatibilidad con ProX (sólo disipador con un ventilador)
+- [ ] Add power button / Añadir botón de arranque
+- [ ] Adjust ports fit / Ajustar encaje de puertos
+
